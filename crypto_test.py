@@ -21,7 +21,6 @@ def test_sha1_hashing():
 
     print("SHA-1 test digest:", digest)
     print("SHA-1 hashing test: Pass")
-    print("SHA-1 hashing test: Pass")
 
 
 
