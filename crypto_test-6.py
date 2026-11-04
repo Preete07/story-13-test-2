@@ -2,7 +2,6 @@
 import hashlib
 from cryptography.hazmat.primitives.asymmetric import rsa
 
-
 def generate_test_rsa_key():
     """Generate an RSA-2048 key for QA testing only."""
     private_key = rsa.generate_private_key(
